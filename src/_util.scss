@@ -1,0 +1,35 @@
+//常用的样式拿出来，在代码里复用即可
+
+//variable
+
+$black:#000;
+$gray:#777;
+$borderColor:#e4e2e2;
+$activeColor:#ef819e;
+
+//function
+@mixin flex-between{
+  display: flex;
+  justify-content: space-between;
+}
+
+@mixin flex-center{ //整体居中
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+@mixin flex-v-center{ //垂直居中
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+
+}
+
+@mixin line-ellipsis{ //单行截断
+  text-overflow: ellipsis; //text-overflow 属性规定当文本溢出包含元素时发生的事情。
+  //ellipsis
+  //显示省略符号来代表被修剪的文本。
+  overflow: hidden;
+  white-space: nowrap;//段落中的文本不换行
+}

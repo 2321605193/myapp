@@ -1,0 +1,30 @@
+.imageSlider {
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background-color: #000;
+  z-index: 100; }
+  .imageSlider__content {
+    width: 100%;
+    height: 100%; }
+    .imageSlider__content .slick-list {
+      height: 100%; }
+    .imageSlider__content .slick-track {
+      height: 100%; }
+  .imageSlider__index {
+    color: #fff;
+    text-align: center;
+    height: 40px;
+    line-height: 40px; }
+  .imageSlider__item {
+    height: 100%;
+    position: relative; }
+  .imageSlider__img {
+    width: 100%;
+    height: auto;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate3d(-50%, 50%, 0); }

@@ -1,0 +1,33 @@
+.posterSlide {
+  height: 100%;
+  overflow: hidden; }
+  .posterSlide__img {
+    width: 100%;
+    height: 100%; }
+  .posterSlide__dots {
+    position: absolute;
+    width: 100%;
+    bottom: 0;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    height: 20px; }
+  .posterSlide li {
+    display: inline-block;
+    list-style: none;
+    width: 8px;
+    height: 8px; }
+    .posterSlide li:nth-child(n+2) {
+      margin-left: 10px; }
+    .posterSlide li::before {
+      content: '';
+      display: block;
+      width: 8px;
+      height: 8px;
+      background-color: rgba(255, 255, 255, 0.8); }
+    .posterSlide li.slick-active::before {
+      background-color: #fff; }
+    .posterSlide li button {
+      font-size: 0;
+      line-height: 0;
+      color: transparent; }

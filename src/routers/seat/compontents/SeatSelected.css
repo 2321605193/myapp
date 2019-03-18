@@ -1,0 +1,55 @@
+.seatSelected {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  background-color: #fff;
+  border-top: 1px solid #e4e2e2; }
+  .seatSelected__list {
+    display: flex;
+    list-style: none;
+    box-sizing: border-box;
+    width: 100%;
+    margin: 0;
+    padding: 10px 20px;
+    overflow: scroll;
+    white-space: nowrap; }
+  .seatSelected__item:nth-child(n+2) {
+    margin-left: 10px; }
+  .seatSelected .movieTicket {
+    display: flex;
+    width: 84px;
+    height: 36px;
+    border: 1px solid #e4e2e2;
+    border-radius: 4px; }
+    .seatSelected .movieTicket__detail {
+      padding-left: 10px;
+      flex: 1; }
+    .seatSelected .movieTicket__position {
+      font-size: 14px;
+      line-height: 20px;
+      color: #000; }
+    .seatSelected .movieTicket__price {
+      font-size: 12px;
+      line-height: 16px;
+      color: #82c57b; }
+    .seatSelected .movieTicket__close {
+      width: 20px;
+      background: transparent url("../../../icons/close.svg") 50%/10px 10px no-repeat; }
+    .seatSelected .movieTicket__tag {
+      display: inline-block;
+      font-size: 12px;
+      width: 14px;
+      height: 14px;
+      text-align: center;
+      border-radius: 2px;
+      color: #fff;
+      background-color: #82c57b;
+      font-style: normal;
+      margin-right: 6px; }
+  .seatSelected__buy {
+    width: 100%;
+    height: 56px;
+    color: #fff;
+    text-align: center;
+    line-height: 56px;
+    background: #ee798e; }

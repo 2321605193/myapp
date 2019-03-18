@@ -1,0 +1,33 @@
+.detail__top {
+  background-color: #d4b267;
+  padding: 0 20px; }
+
+.detail__content {
+  padding: 0 20px 50px;
+  margin-top: 10px; }
+
+.detail__module {
+  padding: 20px 0; }
+  .detail__module:nth-child(n+2) {
+    border-top: 1px solid #e4e2e2; }
+
+.detail__moduleTitle {
+  font-size: 20px;
+  font-weight: bold;
+  margin: 0 0 16px; }
+
+.detail__overview {
+  color: #333;
+  font-size: 14px;
+  line-height: 28px; }
+
+.detail__buyBtn {
+  position: fixed;
+  height: 55px;
+  width: 100%;
+  line-height: 55px;
+  color: #fff;
+  text-align: center;
+  bottom: 0;
+  background-color: #ef819e;
+  text-decoration: none; }

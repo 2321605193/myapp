@@ -1,0 +1,42 @@
+.scoreSummary__top {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 30px; }
+
+.scoreSummary .summaryItem__value {
+  font-size: 20px;
+  font-width: 500;
+  line-height: 30px; }
+
+.scoreSummary .summaryItem__title {
+  font-size: 12px;
+  color: #777; }
+
+.scoreSummary .summaryBtn {
+  display: flex; }
+  .scoreSummary .summaryBtn__item {
+    flex: 1;
+    height: 46px;
+    line-height: 46px;
+    background-color: #f5f5f5;
+    text-align: center;
+    -webkit-appearance: none;
+    outline: none;
+    border: none;
+    border-radius: 4px;
+    color: #777;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center; }
+    .scoreSummary .summaryBtn__item i {
+      display: inline-block;
+      margin-right: 10px;
+      width: 16px;
+      height: 16px; }
+    .scoreSummary .summaryBtn__item--want i {
+      background: url("../../../icons/heart.svg") 50%/contain no-repeat; }
+    .scoreSummary .summaryBtn__item--seen {
+      margin-left: 20px; }
+      .scoreSummary .summaryBtn__item--seen i {
+        background: url("../../../icons/star.svg") 50%/contain no-repeat; }

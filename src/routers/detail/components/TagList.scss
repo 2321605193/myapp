@@ -1,0 +1,20 @@
+@import "../../../util";
+.tagList{
+  &__item{
+    display: inline-block;
+    border:1px solid $borderColor;
+    color:$black;
+    font-size: 14px;
+    line-height: 28px;
+    height: 28px;
+    padding: 0 14px;
+    border-radius: 14px;
+    margin: 6px  6px 0 0;
+
+
+    &--active{
+      border: 1px solid $activeColor;
+    }
+
+  }
+}

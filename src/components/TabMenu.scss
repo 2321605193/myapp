@@ -1,0 +1,52 @@
+@import "../util";
+.tabMenu{
+  display: flex;
+  position: fixed;
+  bottom: 0;
+  width:100%;
+  height: 48px;
+  background-color: #ffffff;
+  border-top: 1px solid $borderColor;
+
+  &__btn{
+    flex: 1;
+    flex-direction: column;
+    @include flex-center; //引用util中的 方法
+    text-decoration: none;  //去掉下划线
+
+  }
+  &__icon{
+    display: block;
+    width: 22px;
+    height: 22px;
+    background-color: #cccccc;
+
+    &--movie{
+      background: #fff url("../icons/movie.png") 50% / contain no-repeat;
+    }
+    &--user{
+      background: #fff url("../icons/user.png") 50% / contain no-repeat;
+    }
+  }
+  &__btn--active{
+    .tabMenu__text{
+      color: #ff4c64;
+    }
+    .tabMenu__icon{
+      &--movie{
+        background: #fff url("../icons/movie-solid.png") 50% / contain no-repeat;
+      }
+      &--user{
+        background: #fff url("../icons/user-solid.png") 50% / contain no-repeat;
+      }
+
+    }
+
+  }
+  &__text{
+    color: #666;
+    font-size: 10px;
+    margin-top: 4px;
+  }
+
+}

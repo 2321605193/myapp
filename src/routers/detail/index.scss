@@ -1,0 +1,47 @@
+@import "../../util";
+
+.detail{
+  &__top{
+    background-color: #d4b267;
+    padding: 0 20px;
+  }
+
+  &__content{
+    padding: 0 20px 50px;
+    margin-top: 10px;
+
+  }
+  &__module{
+    padding: 20px 0;
+
+    &:nth-child(n+2){
+      border-top: 1px solid $borderColor;
+
+    }
+
+  }
+
+  &__moduleTitle{
+    font-size: 20px;
+    font-weight: bold;
+    margin: 0 0 16px;
+  }
+
+  &__overview{
+    color:#333;
+    font-size: 14px;
+    line-height: 28px;
+  }
+
+  &__buyBtn{
+    position: fixed;  //始终定位在底部
+    height: 55px;
+    width: 100%;
+    line-height: 55px;
+    color: #fff;
+    text-align: center;
+    bottom: 0;
+    background-color: $activeColor;
+    text-decoration: none;
+  }
+}

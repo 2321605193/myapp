@@ -1,0 +1,46 @@
+.commentList {
+  list-style: none;
+  padding: 0; }
+  .commentList li:nth-child(n+2) {
+    margin-top: 24px; }
+  .commentList .commentUser {
+    display: flex; }
+    .commentList .commentUser__avatar {
+      width: 50px;
+      height: 50px;
+      background-color: #ccc;
+      border-radius: 50%;
+      background-size: cover; }
+    .commentList .commentUser__detail {
+      margin-left: 10px;
+      display: flex;
+      flex-direction: column;
+      justify-content: center; }
+    .commentList .commentUser__name {
+      font-size: 16px;
+      font-weight: bold;
+      color: #000;
+      margin-bottom: 6px; }
+    .commentList .commentUser__value {
+      color: #f2a95d;
+      margin-left: 5px;
+      font-weight: bold; }
+  .commentList .commentItem__detail {
+    display: flex;
+    justify-content: space-between;
+    font-size: 12px;
+    color: #777;
+    margin-top: 5px;
+    align-items: center; }
+  .commentList .commentItem__time {
+    flex: 1; }
+  .commentList .commentItem__zan {
+    width: 120px;
+    text-align: right; }
+  .commentList .commentItem__zan i {
+    display: inline-block;
+    width: 14px;
+    height: 14px;
+    background: #fff url("../../../icons/zan-o.svg") 50%/cover no-repeat; }
+  .commentList .commentItem__zan--active i {
+    background: #fff url("../../../icons/zan-solid.svg") 50%/cover no-repeat; }

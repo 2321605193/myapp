@@ -1,0 +1,44 @@
+.posterSlide{
+  height: 100%;
+  overflow: hidden;
+
+  &__img{
+    width: 100%;
+    height: 100%;
+  }
+  &__dots{
+    position: absolute;
+    width: 100%;
+    bottom: 0;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    height:20px;
+  }
+  li{
+    display: inline-block;
+    list-style: none;
+    width: 8px;
+    height: 8px;
+    &:nth-child(n+2){//从第二个开始设置间距
+      margin-left: 10px;
+    }
+
+    &::before{
+      content: '';
+      display: block;
+      width: 8px;
+      height: 8px;
+      background-color: rgba(#fff,.8);
+    }
+
+    &.slick-active::before{
+      background-color: #fff;
+    }
+    button {
+      font-size: 0;
+      line-height: 0;
+      color: transparent;
+    }
+  }
+}

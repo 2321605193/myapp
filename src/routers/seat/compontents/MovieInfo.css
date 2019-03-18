@@ -1,0 +1,12 @@
+.seatMovieInfo {
+  padding: 14px 20px;
+  border-top: 1px solid #e4e2e2;
+  border-bottom: 1px solid #e4e2e2; }
+  .seatMovieInfo__title {
+    color: #000;
+    font-size: 16px;
+    font-weight: 400; }
+  .seatMovieInfo__info {
+    margin-top: 10px;
+    color: #777;
+    font-size: 14px; }

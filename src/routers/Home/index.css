@@ -1,0 +1,21 @@
+.home__slide {
+  position: relative;
+  width: 100%;
+  height: 0;
+  padding-bottom: 40%; }
+
+.home__slideWrap {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0; }
+
+.home__content {
+  padding: 0 20px 49px;
+  list-style: none;
+  margin: 0; }
+  .home__content li {
+    list-style: none; }
+    .home__content li:nth-child(n+2) {
+      border-top: 1px solid #e4e2e2; }

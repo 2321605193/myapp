@@ -1,0 +1,66 @@
+@import "../../../util"; //引入util
+
+.movieItem{
+  display: flex;
+  padding: 16px 0;
+
+  &__poster{
+    width: 66px;
+    height: 96px;
+
+    img{
+      width: 100%;
+      height: 100%;
+    }
+  }
+  &__datail{
+    flex: 1;
+    margin: 0 14px;
+  }
+
+  &__btn{
+    display: flex;
+    flex-direction: column;
+    align-items: center; //上下居中
+    justify-content: center; //左右居中
+  }
+  &__price{
+    color: $gray;
+   font-size: 12px;
+    margin-top: 4px;
+  }
+
+  &__name{
+    color: $black;
+    font-size: 16px;
+    font-weight: bold;
+    line-height: 28px;
+  }
+
+  &__score{
+    color:#333;
+    font-size: 12px;
+    margin-top: 4px;
+
+    span{
+      font-weight: bold;
+      color: #ffa54b;
+      margin-left: 6px;
+    }
+  }
+
+  &__director,&__actor{
+    color:  $gray;
+    font-size: 10px
+  }
+  &__director{
+    margin-top: 8px;
+  }
+
+  &__actor{
+    margin-top: 6px;
+  }
+
+
+
+}

@@ -1,0 +1,861 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/src/routers/seat/compontents/SeatSelected.jsx" line="36" />
+    <bookmark url="file://$PROJECT_DIR$/src/routers/seat/Index.scss" line="16" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c0fe1dd8-4f41-45cb-85ea-e4dc2f364132" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.eslintignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.eslintrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/my-app.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/debug.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/css/slick-theme.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/css/slick.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/source/artist/asset1.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/source/artist/asset2.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/source/artist/asset3.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/source/artist/asset4.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/source/artist/asset5.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/source/artist/asset6.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/source/avatar.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/source/default-avatar.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/source/image/asset1.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/source/image/asset2.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/source/image/asset3.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/source/image/asset4.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/source/image/asset5.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/source/image/asset6.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/source/movie/asset1.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/source/movie/asset2.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/source/movie/asset3.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/source/movie/asset4.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/source/movie/asset5.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/source/movie/asset6.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/source/movie/asset7.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/source/seat-empty.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/source/seat-selected.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/source/seat-sold.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/source/slide/slide1.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/source/slide/slide2.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/source/slide/slide3.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/source/slide/slide4.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/source/slide/slide5.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/App.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_util.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/common.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/common.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/CollapsibleText.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/CollpasibleText.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/CollpasibleText.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/LineLink.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/LineLink.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/LineLink.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/RenderToBody.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Star.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Star.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Star.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/TabMenu.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/TabMenu.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/TabMenu.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/__tests__/Start.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/__tests__/__snapshots__/Start.js.snap" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/helpers/request.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/icons/arrow-r.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/icons/back-black.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/icons/back.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/icons/close.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/icons/heart.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/icons/message.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/icons/movie-solid.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/icons/movie.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/icons/scan.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/icons/screen.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/icons/seats.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/icons/setting.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/icons/share-black.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/icons/share.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/icons/star-o.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/icons/star.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/icons/user-solid.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/icons/user.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/icons/zan-o.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/icons/zan-solid.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/normalize.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/routers/Home/components/CityLayer.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/routers/Home/components/CityLayer.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/routers/Home/components/CityLayer.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/routers/Home/components/MovieItem.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/routers/Home/components/MovieItem.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/routers/Home/components/MovieItem.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/routers/Home/components/Slide.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/routers/Home/components/Slide.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/routers/Home/components/Slide.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/routers/Home/components/TopBar.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/routers/Home/components/TopBar.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/routers/Home/components/TopBar.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/routers/Home/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/routers/Home/index.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/routers/Home/index.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/routers/detail/components/Artist.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/routers/detail/components/Artist.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/routers/detail/components/Artist.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/routers/detail/components/BaseInfo.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/routers/detail/components/BaseInfo.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/routers/detail/components/BaseInfo.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/routers/detail/components/CommentList.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/routers/detail/components/CommentList.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/routers/detail/components/CommentList.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/routers/detail/components/ScoreDistribute.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/routers/detail/components/ScoreDistribute.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/routers/detail/components/ScoreDistribute.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/routers/detail/components/ScoreSummary.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/routers/detail/components/ScoreSummary.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/routers/detail/components/ScoreSummary.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/routers/detail/components/TagList.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/routers/detail/components/TagList.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/routers/detail/components/TagList.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/routers/detail/container/Comment.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/routers/detail/container/ImageSlide.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/routers/detail/container/ImageSlide.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/routers/detail/container/ImageSlide.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/routers/detail/container/comment.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/routers/detail/container/comment.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/routers/detail/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/routers/detail/index.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/routers/detail/index.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/routers/seat/Index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/routers/seat/Index.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/routers/seat/Index.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/routers/seat/actions/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/routers/seat/compontents/MovieInfo.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/routers/seat/compontents/MovieInfo.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/routers/seat/compontents/MovieInfo.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/routers/seat/compontents/SeatSelected.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/routers/seat/compontents/SeatSelected.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/routers/seat/compontents/SeatSelected.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/routers/seat/container/SeatSelector.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/routers/seat/container/SeatSelector.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/routers/seat/container/SeatSelector.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/routers/seat/mock/seat.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/routers/seat/reducers/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/routers/user/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/routers/user/index.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/routers/user/index.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>p</find>
+      <find>.slick-list,.slick-slider,.slick-track{position:relative;display:block}.slick-loading .slick-slide,.slick-loading .slick-track{visibility:hidden}.slick-slider{box-sizing:border-box;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;-webkit-touch-callout:none;-khtml-user-select:none;-ms-touch-action:pan-y;touch-action:pan-y;-webkit-tap-highlight-color:transparent}.slick-list{overflow:hidden;margin:0;padding:0}.slick-list:focus{outline:0}.slick-list.dragging{cursor:pointer;cursor:hand}.slick-slider .slick-list,.slick-slider .slick-track{-webkit-transform:translate3d(0,0,0);-moz-transform:translate3d(0,0,0);-ms-transform:translate3d(0,0,0);-o-transform:translate3d(0,0,0);transform:translate3d(0,0,0)}.slick-track{top:0;left:0}.slick-track:after,.slick-track:before{display:table;content:''}.slick-track:after{clear:both}.slick-slide{display:none;float:left;height:100%;min-height:1px}[dir=rtl] .slick-slide{float:right}.slick-slide img{display:block}.slick-slide.slick-loading img{display:none}.slick-slide.dragging img{pointer-events:none}.slick-initialized .slick-slide{display:block}.slick-vertical .slick-slide{display:block;height:auto;border:1px solid transparent}.slick-arrow.slick-hidden{display:none}/*# sourceMappingURL=slick.min.css.map */</find>
+      <find>content</find>
+      <find>font-f</find>
+      <find>hidd</find>
+      <find>eslint</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/components/CollpasibleText.jsx" />
+        <option value="$PROJECT_DIR$/.eslintignore" />
+        <option value="$PROJECT_DIR$/node_modules/eslint-plugin-react/lib/util/makeNoMethodSetStateRule.js" />
+        <option value="$PROJECT_DIR$/node_modules/eslint-plugin-react/lib/rules/no-did-mount-set-state.js" />
+        <option value="$PROJECT_DIR$/node_modules/react-scripts/package.json" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/src/routers/detail/components/Artist.css" />
+        <option value="$PROJECT_DIR$/src/routers/detail/components/Artist.scss" />
+        <option value="$PROJECT_DIR$/src/routers/detail/components/Artist.jsx" />
+        <option value="$PROJECT_DIR$/src/routers/detail/components/ScoreDistribute.jsx" />
+        <option value="$PROJECT_DIR$/src/routers/detail/components/ScoreDistribute.scss" />
+        <option value="$PROJECT_DIR$/src/routers/detail/components/TagList.css" />
+        <option value="$PROJECT_DIR$/src/_util.scss" />
+        <option value="$PROJECT_DIR$/src/routers/detail/components/TagList.scss" />
+        <option value="$PROJECT_DIR$/2.js" />
+        <option value="$PROJECT_DIR$/1.html" />
+        <option value="$PROJECT_DIR$/src/App.test.js" />
+        <option value="$PROJECT_DIR$/src/routers/user/index.jsx" />
+        <option value="$PROJECT_DIR$/src/components/CollpasibleText.scss" />
+        <option value="$PROJECT_DIR$/src/routers/detail/components/CommentList.scss" />
+        <option value="$PROJECT_DIR$/src/routers/detail/components/TagList.jsx" />
+        <option value="$PROJECT_DIR$/src/components/CollapsibleText.jsx" />
+        <option value="$PROJECT_DIR$/src/routers/detail/components/CommentList.jsx" />
+        <option value="$PROJECT_DIR$/src/routers/detail/container/Comment.jsx" />
+        <option value="$PROJECT_DIR$/src/components/Star.jsx" />
+        <option value="$PROJECT_DIR$/src/routers/detail/index.scss" />
+        <option value="$PROJECT_DIR$/.eslintrc" />
+        <option value="$PROJECT_DIR$/src/routers/detail/container/imgSlide.jsx" />
+        <option value="$PROJECT_DIR$/src/routers/detail/container/imgSlide.scss" />
+        <option value="$PROJECT_DIR$/src/routers/detail/container/ImageSlide.scss" />
+        <option value="$PROJECT_DIR$/src/routers/detail/components/BaseInfo.jsx" />
+        <option value="$PROJECT_DIR$/src/routers/detail/container/ImageSlide.jsx" />
+        <option value="$PROJECT_DIR$/src/App.js" />
+        <option value="$PROJECT_DIR$/src/common.scss" />
+        <option value="$PROJECT_DIR$/src/routers/seat/compontents/MovieInfo.jsx" />
+        <option value="$PROJECT_DIR$/src/routers/seat/compontents/MovieInfo.scss" />
+        <option value="$PROJECT_DIR$/src/routers/seat/mock/seat.json" />
+        <option value="$PROJECT_DIR$/src/routers/seat/Index.css" />
+        <option value="$PROJECT_DIR$/src/routers/seat/compontents/SeatSelected.scss" />
+        <option value="$PROJECT_DIR$/src/routers/seat/actions/index.js" />
+        <option value="$PROJECT_DIR$/src/routers/seat/reducers/index.js" />
+        <option value="$PROJECT_DIR$/src/routers/seat/container/SeatSelector.jsx" />
+        <option value="$PROJECT_DIR$/src/routers/seat/compontents/SeatSelected.jsx" />
+        <option value="$PROJECT_DIR$/src/routers/seat/Index.scss" />
+        <option value="$PROJECT_DIR$/src/routers/Home/index.jsx" />
+        <option value="$PROJECT_DIR$/src/normalize.css" />
+        <option value="$PROJECT_DIR$/src/routers/detail/index.jsx" />
+        <option value="$PROJECT_DIR$/src/routers/seat/Index.jsx" />
+        <option value="$PROJECT_DIR$/src/routers/Home/components/MovieItem.jsx" />
+        <option value="$PROJECT_DIR$/src/routers/Home/components/__tests__/Start.js" />
+        <option value="$PROJECT_DIR$/src/components/__tests__/Start.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-1281" />
+    <option name="width" value="1288" />
+    <option name="height" value="1087" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="my-app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="my-app" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="NewWatcherDialog.advanced.open" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="editor.config.ad.shown" value="true" />
+    <property name="editorconfig.notification" value="lf " />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.eslint" value="F:\soft\progrmmingsoftware\VSCodePortable\Data\progrom\my-app\node_modules\eslint" />
+    <property name="node.js.selected.package.standard" value="F:\soft\progrmmingsoftware\VSCodePortable\Data\progrom\my-app\node_modules\eslint" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\soft\progrmmingsoftware\VSCodePortable\Data\progrom\my-app\src\routers\seat\mock" />
+      <recent name="E:\soft\progrmmingsoftware\vscode\VSCodePortable\Data\progrom\my-app\src\components" />
+      <recent name="E:\soft\progrmmingsoftware\vscode\VSCodePortable\Data\progrom\my-app\public" />
+      <recent name="E:\soft\progrmmingsoftware\vscode\VSCodePortable\Data\progrom\my-app\src" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\soft\progrmmingsoftware\VSCodePortable\Data\progrom\my-app\src\components" />
+      <recent name="E:\soft\progrmmingsoftware\vscode\VSCodePortable\Data\progrom\my-app\src\routers\detail\components" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.index.html">
+    <configuration name="1.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/my-app/1.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/my-app/public/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="2.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/2.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.jsx (1)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/routers/Home/index.jsx" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.jsx" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/routers/detail/index.jsx" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.html" />
+        <item itemvalue="Node.js.index.jsx (1)" />
+        <item itemvalue="JavaScript Debug.1.html" />
+        <item itemvalue="Node.js.2.js" />
+        <item itemvalue="Node.js.index.jsx" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c0fe1dd8-4f41-45cb-85ea-e4dc2f364132" name="Default Changelist" comment="" />
+      <created>1550289649060</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1550289649060</updated>
+      <workItem from="1550289651125" duration="9922000" />
+      <workItem from="1550304429850" duration="13353000" />
+      <workItem from="1550385818810" duration="22053000" />
+      <workItem from="1550456409032" duration="5191000" />
+      <workItem from="1550466221119" duration="11309000" />
+      <workItem from="1550479668618" duration="9498000" />
+      <workItem from="1550492650035" duration="599000" />
+      <workItem from="1550572575039" duration="259000" />
+      <workItem from="1550572856296" duration="612000" />
+      <workItem from="1550577077725" duration="10830000" />
+      <workItem from="1550627918768" duration="1003000" />
+      <workItem from="1550634529761" duration="598000" />
+      <workItem from="1550637180488" duration="19572000" />
+      <workItem from="1550669655704" duration="4348000" />
+      <workItem from="1550713443490" duration="599000" />
+      <workItem from="1550725737815" duration="12553000" />
+      <workItem from="1550748085474" duration="4238000" />
+      <workItem from="1550759108338" duration="533000" />
+      <workItem from="1550797182148" duration="3442000" />
+      <workItem from="1550894628805" duration="5813000" />
+      <workItem from="1550902428676" duration="7437000" />
+      <workItem from="1550910605155" duration="1134000" />
+      <workItem from="1550989252152" duration="20593000" />
+      <workItem from="1551054511157" duration="3424000" />
+      <workItem from="1551093085777" duration="1103000" />
+      <workItem from="1551190091914" duration="4390000" />
+      <workItem from="1551267234842" duration="7186000" />
+      <workItem from="1551342070475" duration="1406000" />
+      <workItem from="1551345168291" duration="34000" />
+      <workItem from="1551501725648" duration="2091000" />
+      <workItem from="1551529382061" duration="2306000" />
+      <workItem from="1551613531723" duration="145000" />
+      <workItem from="1551885371125" duration="624000" />
+      <workItem from="1551916631722" duration="2973000" />
+      <workItem from="1552044065925" duration="2248000" />
+      <workItem from="1552130579181" duration="6664000" />
+      <workItem from="1552182835145" duration="5280000" />
+      <workItem from="1552213288647" duration="7281000" />
+      <workItem from="1552221291840" duration="3518000" />
+      <workItem from="1552262459944" duration="3827000" />
+      <workItem from="1552267998653" duration="1004000" />
+      <workItem from="1552269708392" duration="3618000" />
+      <workItem from="1552287511746" duration="596000" />
+      <workItem from="1552476088506" duration="7206000" />
+      <workItem from="1552556201930" duration="3038000" />
+      <workItem from="1552639684053" duration="5728000" />
+      <workItem from="1552704774322" duration="2923000" />
+      <workItem from="1552728204465" duration="7698000" />
+      <workItem from="1552747843965" duration="3909000" />
+      <workItem from="1552783511525" duration="14517000" />
+      <workItem from="1552883082051" duration="2396000" />
+      <workItem from="1552901284455" duration="7186000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="279808000" />
+  </component>
+  <component name="TodoView" selected-index="1">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-1281" y="0" width="1288" height="1087" extended-state="0" />
+    <layout>
+      <window_info id="Structure" order="0" side_tool="true" weight="0.25" />
+      <window_info id="npm" order="1" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="3" visible="true" weight="0.1872" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3295129" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49867898" weight="0.3286119" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39943343" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3286119" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.3286119" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50316054" side_tool="true" weight="0.21346705" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" sideWeight="0.49683943" visible="true" weight="0.59916055" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2295302" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="npm" order="2" side_tool="true" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3286119" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50067115" side_tool="true" weight="0.57020056" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49932885" visible="true" weight="0.24068768" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/routers/detail/container/Comment.jsx</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/routers/detail/container/Comment.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="245">
+          <caret line="40" column="47" selection-start-line="40" selection-start-column="47" selection-end-line="40" selection-end-column="47" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Star.scss">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/LineLink.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-144" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/debug.log">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/serviceWorker.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2569">
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/routers/detail/index.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="111">
+          <caret line="9" column="25" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/routers/detail/components/CommentList.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1128">
+          <caret line="51" selection-start-line="51" selection-end-line="51" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/routers/detail/components/ScoreDistribute.jsx">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/CollapsibleText.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="311">
+          <caret line="58" column="2" selection-start-line="58" selection-start-column="2" selection-end-line="58" selection-end-column="2" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/routers/detail/components/TagList.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.eslintrc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/routers/Home/components/Slide.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="11" column="4" lean-forward="true" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/routers/user/index.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-330">
+          <caret line="3" column="49" selection-start-line="3" selection-start-column="49" selection-end-line="3" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/source/image/asset1.jpeg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/source/image/asset6.jpeg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/source/image/asset5.jpeg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/source/image/asset4.jpeg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/source/image/asset3.jpeg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/source/image/asset2.jpeg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/routers/detail/container/ImageSlide.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="332">
+          <caret line="40" column="33" lean-forward="true" selection-start-line="40" selection-start-column="33" selection-end-line="40" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/routers/detail/components/BaseInfo.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="552">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/routers/detail/container/ImageSlide.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="25" column="32" lean-forward="true" selection-start-line="25" selection-start-column="32" selection-end-line="25" selection-end-column="32" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Star.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="35">
+          <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="18" column="52" selection-start-line="18" selection-start-column="52" selection-end-line="18" selection-end-column="52" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/common.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1416">
+          <caret line="59" column="53" selection-start-line="59" selection-start-column="53" selection-end-line="59" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/routers/seat/compontents/MovieInfo.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="10" column="20" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/routers/seat/compontents/MovieInfo.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="1" column="25" selection-start-line="1" selection-start-column="25" selection-end-line="1" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/routers/seat/mock/seat.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="274" column="4" selection-start-line="274" selection-start-column="4" selection-end-line="282" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/routers/seat/container/SeatSelector.scss">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/routers/seat/compontents/SeatSelected.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="1" selection-start-column="1" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/routers/seat/Index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="17" column="14" lean-forward="true" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/routers/seat/compontents/SeatSelected.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="552">
+          <caret line="26" column="15" selection-start-line="26" selection-start-column="15" selection-end-line="26" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/routers/seat/reducers/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/routers/seat/actions/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="12" column="21" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/react-redux/es/connect/connect.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="622">
+          <caret line="97" column="15" selection-start-line="97" selection-start-column="15" selection-end-line="97" selection-end-column="15" />
+          <folding>
+            <element signature="e#0#58#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="14" column="22" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/routers/seat/Index.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="15" column="16" lean-forward="true" selection-start-line="12" selection-end-line="15" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/routers/seat/compontents/SeatSelected.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="8" column="23" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/routers/seat/container/SeatSelector.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/normalize.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="31" column="23" selection-start-line="31" selection-start-column="19" selection-end-line="31" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/manifest.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/RenderToBody.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-492">
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/routers/detail/index.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="48" column="104" selection-start-line="48" selection-start-column="104" selection-end-line="48" selection-end-column="104" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/routers/Home/index.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1992">
+          <caret line="83" column="99" selection-start-line="83" selection-start-column="99" selection-end-line="83" selection-end-column="99" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/routers/Home/components/MovieItem.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="648">
+          <caret line="33" column="23" selection-start-line="33" selection-start-column="23" selection-end-line="33" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/App.test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/routers/seat/Index.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="59" column="41" selection-start-line="59" selection-start-column="41" selection-end-line="59" selection-end-column="41" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/__tests__/Start.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="6" column="45" selection-start-line="6" selection-start-column="45" selection-end-line="6" selection-end-column="45" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/__tests__/__snapshots__/Start.js.snap">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="6" column="12" lean-forward="true" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
