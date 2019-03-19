@@ -6,8 +6,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c0fe1dd8-4f41-45cb-85ea-e4dc2f364132" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/routers/seat/container/SeatSelector.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/routers/seat/container/SeatSelector.jsx" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -20,7 +18,20 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/routers/seat/container/SeatSelector.jsx">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="508">
+              <caret line="57" selection-start-line="57" selection-end-line="57" />
+              <folding>
+                <element signature="e#0#39#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -87,8 +98,8 @@
         <option value="$PROJECT_DIR$/src/routers/Home/components/__tests__/Start.js" />
         <option value="$PROJECT_DIR$/src/components/__tests__/Start.js" />
         <option value="$PROJECT_DIR$/public/index.html" />
-        <option value="$PROJECT_DIR$/src/routers/seat/container/SeatSelector.jsx" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/src/routers/seat/container/SeatSelector.jsx" />
       </list>
     </option>
   </component>
@@ -101,7 +112,7 @@
   <component name="ProjectFrameBounds">
     <option name="x" value="-1281" />
     <option name="width" value="1288" />
-    <option name="height" value="1087" />
+    <option name="height" value="1088" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -294,11 +305,12 @@
       <workItem from="1552883082051" duration="2396000" />
       <workItem from="1552901284455" duration="7301000" />
       <workItem from="1552975635100" duration="2019000" />
+      <workItem from="1552979128588" duration="965000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="281942000" />
+    <option name="totallyTimeSpent" value="282907000" />
   </component>
   <component name="TodoView" selected-index="1">
     <todo-panel id="selected-file">
@@ -309,7 +321,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1281" y="0" width="1288" height="1087" extended-state="0" />
+    <frame x="-1281" y="0" width="1288" height="1088" extended-state="0" />
     <layout>
       <window_info id="Structure" order="0" side_tool="true" weight="0.25" />
       <window_info id="npm" order="1" side_tool="true" />
@@ -325,7 +337,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.3286119" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50316054" side_tool="true" weight="0.21346705" />
-      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49683943" visible="true" weight="0.16264428" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49683943" visible="true" weight="0.1624738" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -720,8 +732,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/routers/seat/container/SeatSelector.jsx">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1056">
-          <caret line="56" column="25" lean-forward="true" selection-start-line="56" selection-start-column="25" selection-end-line="56" selection-end-column="25" />
+        <state relative-caret-position="508">
+          <caret line="57" selection-start-line="57" selection-end-line="57" />
           <folding>
             <element signature="e#0#39#0" expanded="true" />
           </folding>
