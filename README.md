@@ -1,3 +1,6 @@
+The project has been deployed to heroku, you can click on the [project address](https://sheltered-scrubland-28622.herokuapp.com/) to view the effect。
+After opening the webpage, please press F12
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -69,7 +72,7 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 ```
 .eslintrc  设计js规则
 .eslintignore  忽略eslint规则
-.editorconfig  对整个编辑器进行编码风格的修改，已达到多人协同工作的效果
+.editorconfig  对整个编辑器进行编码风格的修改，以达到多人协同工作的效果
 ```
 
 

@@ -55,6 +55,7 @@ componentDidMount() {
       this.selectImage=selectImage;
       this.soldImage=soldImage;
       this.drawAllSeat();
+      this.drawSelectSeat();//已选择座位
     }
 
   };
