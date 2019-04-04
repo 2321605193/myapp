@@ -19,7 +19,7 @@ const Star = ({value,size=15}) => {
 
   return (
     <div className="star" style={{height:size,width:size*5,backgroundSize:bgSize}}  >
-      <div className="star__top" style={{width:`${value*10}%`,backgroundSize:bgSize}} />
+      <div className="star__top" style={{width:`${value*10>100?100:value*10}%`,backgroundSize:bgSize}} />
     </div>
   );
 };

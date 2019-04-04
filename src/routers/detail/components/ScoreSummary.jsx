@@ -7,7 +7,7 @@ const ScoreSummary = () => {
     <div className="scoreSummary">
       <div className="scoreSummary__top">
         <div className="summaryItem">
-          <div className="summaryItem__value">9.3  <Star value={9.3}/></div>
+          <div className="summaryItem__value">9.3  <Star value={9.3}/></div>s
           <div className="summaryItem__title">观众评分12313人</div>
         </div>
         <div className="summaryItem">
